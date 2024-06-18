@@ -1,0 +1,24 @@
+#layer0 weights
+385
+000
+03b
+029
+0f5
+
+#layer0 biases
+3e4
+3f8
+3b6
+3fd
+03c
+
+#layer1 weights
+3b7
+036
+3e3
+3d8
+030
+
+#layer1 biases
+3fb
+

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Jun  5 23:12:28 2024
+# Process ID: 21316
+# Current directory: Z:/Sync/autosync/Proj_Vivado/MLP/MLP.runs/impl_1
+# Command line: vivado.exe -log neuron.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source neuron.tcl -notrace
+# Log file: Z:/Sync/autosync/Proj_Vivado/MLP/MLP.runs/impl_1/neuron.vdi
+# Journal file: Z:/Sync/autosync/Proj_Vivado/MLP/MLP.runs/impl_1\vivado.jou
+# Running On: sigme-mail, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 4, Host memory: 16859 MB
+#-----------------------------------------------------------
+source neuron.tcl -notrace

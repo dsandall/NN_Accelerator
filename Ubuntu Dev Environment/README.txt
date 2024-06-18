@@ -1,0 +1,1 @@
+This is the development environment in which all tensorflow model training and definition is done. The scripts here create the hex files that Vivado uses to generate the hardware design in conjunction with the Vivado Project.

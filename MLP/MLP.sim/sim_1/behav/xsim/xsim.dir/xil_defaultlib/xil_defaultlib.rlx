@@ -1,0 +1,9 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+Z:/Sync/autosync/Proj_Vivado/MLP/MLP.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,uvm,,,,,,
+Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/defs.svh,1717814283,verilog,,,,,,,,,,,,
+Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/neuron.sv,1717811983,systemVerilog,Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/testbench.sv;Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/top.sv,Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/top.sv,Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/defs.svh,$unit_neuron_sv_2655065038;neuron2,,uvm,,,,,,
+Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/testbench.sv,1717615370,systemVerilog,,,Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/defs.svh,testbench,,uvm,,,,,,
+Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/top.sv,1717813990,systemVerilog,,Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/testbench.sv,Z:/Sync/autosync/Proj_Vivado/MLP/MLP.srcs/sources_1/new/defs.svh,topWrapper,,uvm,,,,,,

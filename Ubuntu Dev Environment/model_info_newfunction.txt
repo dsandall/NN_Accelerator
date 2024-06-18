@@ -1,0 +1,36 @@
+# Model info:
+# xe-x_PrettyGood.keras
+# generated at 20240607_193735
+#
+#layer0 neurons
+#5
+#layer0 activation function
+#sigmoid
+#layer0 weights
+3d9
+3f7
+368
+3d6
+007
+
+#layer0 biases
+010
+005
+3c5
+020
+3f3
+
+#layer1 neurons
+#1
+#layer1 activation function
+#linear
+#layer1 weights
+020
+3ed
+373
+032
+017
+
+#layer1 biases
+3f7
+
