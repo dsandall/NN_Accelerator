@@ -1,5 +1,6 @@
 Thanks for checking out my project! 
 
+Check out the research paper for a detailed look into my thought process, and the presentation for a quick and dirty overview of what's wrong with existing AI accelerators and some possible ways of improving them.
 Included are two folders, as the development took place in two places.
 
 In ubuntu, I trained the models using tensorflow, quantized the weights, and stored the model information as a hex file for vivado. In this folder is also a short script for analyzing the output of the model when ran in simulation using the testbench.sv file.
